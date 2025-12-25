@@ -1,0 +1,12 @@
+langchain==0.3.24
+langchain_community==0.3.23
+langchain-google-genai==2.0.8
+crewai==0.118.0
+crewai_tools==0.43.0
+google-genai==1.2.0
+google-generativeai==0.8.3
+markdown-pdf==1.7
+streamlit==1.44.1
+python-dotenv==1.0.1
+requests==2.31.0
+
